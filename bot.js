@@ -24,13 +24,13 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === '-مبلغ'){
-        message.channel.send('#credits @! SToReD.#0241 10000')
+        message.channel.send('#credits ! SToReD.#0241 10000')
     }
 });
 
 client.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#rep @! SToReD.#0241')
+        message.channel.send('#rep ! SToReD.#0241')
     }
 });
 
@@ -42,13 +42,13 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === '-مبلغ'){
-        message.channel.send('#credits @! SToReD.#0241 10000')
+        message.channel.send('#credits ! SToReD.#0241 10000')
     }
 });
 
 client2.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#rep @! SToReD.#0241')
+        message.channel.send('#rep ! SToReD.#0241')
     }
 });
 
@@ -60,13 +60,13 @@ client3.on('message', message => {
 
 client3.on('message', message => {
     if(message.content === '-مبلغ'){
-        message.channel.send('#credits @! SToReD.#0241 10000')
+        message.channel.send('#credits ! SToReD.#0241 10000')
     }
 });
 
 client3.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#rep @! SToReD.#0241')
+        message.channel.send('#rep ! SToReD.#0241')
     }
 });
 
