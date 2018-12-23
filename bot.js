@@ -114,7 +114,7 @@ if (message.content === '!spam213') {
       }
 });
 
-
+var prefix = "-"
 client.on('message',async message => {
   if(message.author.bot || message.channel.type === 'dm') return;
   let args = message.content.split(' ');
