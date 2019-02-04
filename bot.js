@@ -1,4 +1,5 @@
 const Discord = require("discord.js");
+const { TOKEN, TOKEN2, TOKEN3 } = require('./config');
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
